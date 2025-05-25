@@ -2,4244 +2,751 @@
   {
     "participantID": "1",
     "quality": "76.9",
-    "inputs": {
-      "length": 5,
-      "circumference": 5,
-      "weight": 14,
-      "thc": 17,
-      "cbd": 8,
-      "moisture": 13,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 571,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 153,
-      "zeltBreite": 84,
-      "zeltHoehe": 166,
-      "seedbank": "Fast Buds",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Atami",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 63
-    }
+    "THC": 17
   },
   {
     "participantID": "2",
     "quality": "93.6",
-    "inputs": {
-      "length": 19,
-      "circumference": 6,
-      "weight": 12,
-      "thc": 29,
-      "cbd": 5,
-      "moisture": 13,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 484,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 109,
-      "zeltBreite": 146,
-      "zeltHoehe": 155,
-      "seedbank": "Barney´s",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "BioBizz",
-      "substrat": "Perlite",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 84
-    }
+    "THC": 29
   },
   {
     "participantID": "3",
     "quality": "61.0",
-    "inputs": {
-      "length": 12,
-      "circumference": 10,
-      "weight": 20,
-      "thc": 30,
-      "cbd": 8,
-      "moisture": 9,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 172,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 153,
-      "zeltBreite": 179,
-      "zeltHoehe": 250,
-      "seedbank": "Paradise Seeds",
-      "strain": "Chemdawg",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Plagron",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 56
-    }
+    "THC": 30
   },
   {
     "participantID": "4",
     "quality": "86.7",
-    "inputs": {
-      "length": 7,
-      "circumference": 12,
-      "weight": 11,
-      "thc": 21,
-      "cbd": 1,
-      "moisture": 12,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 547,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 187,
-      "zeltBreite": 118,
-      "zeltHoehe": 218,
-      "seedbank": "Barney´s",
-      "strain": "OG Kush",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Almicanna",
-      "substrat": "",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 100
-    }
+    "THC": 21
   },
   {
     "participantID": "5",
     "quality": "92.5",
-    "inputs": {
-      "length": 15,
-      "circumference": 6,
-      "weight": 12,
-      "thc": 17,
-      "cbd": 4,
-      "moisture": 13,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 420,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 181,
-      "zeltBreite": 81,
-      "zeltHoehe": 185,
-      "seedbank": "Greenhouse",
-      "strain": "White Widow",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 52
-    }
+    "THC": 17
   },
   {
     "participantID": "6",
     "quality": "75.7",
-    "inputs": {
-      "length": 20,
-      "circumference": 2,
-      "weight": 13,
-      "thc": 20,
-      "cbd": 4,
-      "moisture": 10,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 466,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 243,
-      "zeltBreite": 127,
-      "zeltHoehe": 212,
-      "seedbank": "Greenhouse",
-      "strain": "",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Almicanna",
-      "substrat": "Kokos",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 89
-    }
+    "THC": 20
   },
   {
     "participantID": "7",
     "quality": "82.9",
-    "inputs": {
-      "length": 23,
-      "circumference": 10,
-      "weight": 16,
-      "thc": 26,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 553,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 123,
-      "zeltBreite": 86,
-      "zeltHoehe": 183,
-      "seedbank": "Paradise Seeds",
-      "strain": "",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 50
-    }
+    "THC": 26
   },
   {
     "participantID": "8",
     "quality": "64.9",
-    "inputs": {
-      "length": 9,
-      "circumference": 6,
-      "weight": 23,
-      "thc": 30,
-      "cbd": 7,
-      "moisture": 12,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 595,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 124,
-      "zeltBreite": 193,
-      "zeltHoehe": 217,
-      "seedbank": "Serious Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Canna",
-      "substrat": "Kokos",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 73,
-      "curingmethode": "Sonstiges"
-    }
+    "THC": 30
   },
   {
     "participantID": "9",
     "quality": "84.4",
-    "inputs": {
-      "length": 21,
-      "circumference": 10,
-      "weight": 14,
-      "thc": 27,
-      "cbd": 4,
-      "moisture": 10,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 455,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 196,
-      "zeltBreite": 196,
-      "zeltHoehe": 194,
-      "seedbank": "Sweet Seeds",
-      "strain": "",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Floragard",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 88,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 27
   },
   {
     "participantID": "10",
     "quality": "66.0",
-    "inputs": {
-      "length": 5,
-      "circumference": 2,
-      "weight": 11,
-      "thc": 29,
-      "cbd": 4,
-      "moisture": 13,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 564,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 101,
-      "zeltBreite": 152,
-      "zeltHoehe": 178,
-      "seedbank": "Barney´s",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 90
-    }
+    "THC": 29
   },
   {
     "participantID": "11",
     "quality": "85.4",
-    "inputs": {
-      "length": 3,
-      "circumference": 6,
-      "weight": 18,
-      "thc": 17,
-      "cbd": 1,
-      "moisture": 10,
-      "waterActivity": 0.78
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 285,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 214,
-      "zeltBreite": 199,
-      "zeltHoehe": 190,
-      "seedbank": "Sweet Seeds",
-      "strain": "",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Atami",
-      "substrat": "Kokos",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 74
-    }
+    "THC": 17
   },
   {
     "participantID": "12",
     "quality": "61.7",
-    "inputs": {
-      "length": 9,
-      "circumference": 9,
-      "weight": 25,
-      "thc": 26,
-      "cbd": 5,
-      "moisture": 13,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 449,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 161,
-      "zeltBreite": 205,
-      "zeltHoehe": 178,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Grodan",
-      "substrat": "Perlite",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 89
-    }
+    "THC": 26
   },
   {
     "participantID": "13",
     "quality": "94.2",
-    "inputs": {
-      "length": 18,
-      "circumference": 5,
-      "weight": 20,
-      "thc": 15,
-      "cbd": 5,
-      "moisture": 10,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 520,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 109,
-      "zeltBreite": 233,
-      "zeltHoehe": 174,
-      "seedbank": "DNA Genetics",
-      "strain": "",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 52
-    }
+    "THC": 15
   },
   {
     "participantID": "14",
     "quality": "91.4",
-    "inputs": {
-      "length": 11,
-      "circumference": 15,
-      "weight": 24,
-      "thc": 28,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 190,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 193,
-      "zeltBreite": 128,
-      "zeltHoehe": 181,
-      "seedbank": "Greenhouse",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Grodan",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 57,
-      "curingmethode": "Grovebags"
-    }
+    "THC": 28
   },
   {
     "participantID": "15",
     "quality": "68.7",
-    "inputs": {
-      "length": 12,
-      "circumference": 2,
-      "weight": 24,
-      "thc": 18,
-      "cbd": 1,
-      "moisture": 13,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 455,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 211,
-      "zeltBreite": 130,
-      "zeltHoehe": 242,
-      "seedbank": "Dope Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 52,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 18
   },
   {
     "participantID": "16",
     "quality": "81.2",
-    "inputs": {
-      "length": 6,
-      "circumference": 8,
-      "weight": 19,
-      "thc": 29,
-      "cbd": 3,
-      "moisture": 11,
-      "waterActivity": 0.8
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 388,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 212,
-      "zeltBreite": 148,
-      "zeltHoehe": 198,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Grodan",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 52
-    }
+    "THC": 29
   },
   {
     "participantID": "17",
     "quality": "69.2",
-    "inputs": {
-      "length": 4,
-      "circumference": 11,
-      "weight": 11,
-      "thc": 15,
-      "cbd": 6,
-      "moisture": 13,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 422,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 149,
-      "zeltBreite": 114,
-      "zeltHoehe": 202,
-      "seedbank": "Paradise Seeds",
-      "strain": "Northern Lights",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "BioBizz",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 70
-    }
+    "THC": 15
   },
   {
     "participantID": "18",
     "quality": "66.0",
-    "inputs": {
-      "length": 29,
-      "circumference": 10,
-      "weight": 15,
-      "thc": 20,
-      "cbd": 7,
-      "moisture": 9,
-      "waterActivity": 0.8
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 340,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 90,
-      "zeltBreite": 157,
-      "zeltHoehe": 167,
-      "seedbank": "DNA Genetics",
-      "strain": "Sour Diesel",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 67
-    }
+    "THC": 20
   },
   {
     "participantID": "19",
     "quality": "89.5",
-    "inputs": {
-      "length": 18,
-      "circumference": 10,
-      "weight": 10,
-      "thc": 21,
-      "cbd": 3,
-      "moisture": 11,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 507,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 147,
-      "zeltBreite": 237,
-      "zeltHoehe": 231,
-      "seedbank": "DNA Genetics",
-      "strain": "Critical Mass",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Almicanna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 68
-    }
+    "THC": 21
   },
   {
     "participantID": "20",
     "quality": "66.1",
-    "inputs": {
-      "length": 24,
-      "circumference": 8,
-      "weight": 25,
-      "thc": 15,
-      "cbd": 6,
-      "moisture": 10,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 480,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 222,
-      "zeltBreite": 240,
-      "zeltHoehe": 222,
-      "seedbank": "Dope Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Floragard",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 88
-    }
+    "THC": 15
   },
   {
     "participantID": "21",
     "quality": "73.4",
-    "inputs": {
-      "length": 9,
-      "circumference": 6,
-      "weight": 23,
-      "thc": 15,
-      "cbd": 1,
-      "moisture": 11,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 365,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 219,
-      "zeltBreite": 103,
-      "zeltHoehe": 242,
-      "seedbank": "Serious Seeds",
-      "strain": "",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Florganics",
-      "substrat": "Perlite",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 93,
-      "curingmethode": "offen"
-    }
+    "THC": 15
   },
   {
     "participantID": "22",
     "quality": "91.9",
-    "inputs": {
-      "length": 15,
-      "circumference": 8,
-      "weight": 12,
-      "thc": 23,
-      "cbd": 3,
-      "moisture": 9,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 186,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 144,
-      "zeltBreite": 249,
-      "zeltHoehe": 215,
-      "seedbank": "Sensi Seeds",
-      "strain": "Lemon Skunk",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Canna",
-      "substrat": "Kokos",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 81
-    }
+    "THC": 23
   },
   {
     "participantID": "23",
     "quality": "62.2",
-    "inputs": {
-      "length": 3,
-      "circumference": 5,
-      "weight": 23,
-      "thc": 18,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 215,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 175,
-      "zeltBreite": 147,
-      "zeltHoehe": 187,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "BioBizz",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 55
-    }
+    "THC": 18
   },
   {
     "participantID": "24",
     "quality": "89.7",
-    "inputs": {
-      "length": 5,
-      "circumference": 8,
-      "weight": 10,
-      "thc": 27,
-      "cbd": 4,
-      "moisture": 13,
-      "waterActivity": 0.8
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 280,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 166,
-      "zeltBreite": 167,
-      "zeltHoehe": 171,
-      "seedbank": "DNA Genetics",
-      "strain": "Chemdawg",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "BioBizz",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 55,
-      "curingmethode": "Glas"
-    }
+    "THC": 27
   },
   {
     "participantID": "25",
     "quality": "81.5",
-    "inputs": {
-      "length": 17,
-      "circumference": 7,
-      "weight": 22,
-      "thc": 28,
-      "cbd": 1,
-      "moisture": 11,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 341,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 178,
-      "zeltBreite": 226,
-      "zeltHoehe": 233,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Grodan",
-      "substrat": "Kokos",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 89
-    }
+    "THC": 28
   },
   {
     "participantID": "26",
     "quality": "60.1",
-    "inputs": {
-      "length": 27,
-      "circumference": 11,
-      "weight": 14,
-      "thc": 15,
-      "cbd": 8,
-      "moisture": 12,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 430,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 107,
-      "zeltBreite": 237,
-      "zeltHoehe": 222,
-      "seedbank": "Sensi Seeds",
-      "strain": "White Widow",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Mills",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 93
-    }
+    "THC": 15
   },
   {
     "participantID": "27",
     "quality": "88.0",
-    "inputs": {
-      "length": 18,
-      "circumference": 8,
-      "weight": 17,
-      "thc": 21,
-      "cbd": 1,
-      "moisture": 9,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 178,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 106,
-      "zeltBreite": 241,
-      "zeltHoehe": 152,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Almicanna",
-      "substrat": "Erde",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 68,
-      "curingmethode": "Grovebags"
-    }
+    "THC": 21
   },
   {
     "participantID": "28",
     "quality": "82.0",
-    "inputs": {
-      "length": 25,
-      "circumference": 7,
-      "weight": 21,
-      "thc": 25,
-      "cbd": 6,
-      "moisture": 9,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 589,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 179,
-      "zeltBreite": 179,
-      "zeltHoehe": 199,
-      "seedbank": "Sensi Seeds",
-      "strain": "Lemon Skunk",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Mills",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 68
-    }
+    "THC": 25
   },
   {
     "participantID": "29",
     "quality": "65.5",
-    "inputs": {
-      "length": 17,
-      "circumference": 3,
-      "weight": 15,
-      "thc": 25,
-      "cbd": 1,
-      "moisture": 12,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 224,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 189,
-      "zeltBreite": 209,
-      "zeltHoehe": 226,
-      "seedbank": "Sweet Seeds",
-      "strain": "",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Almicanna",
-      "substrat": "Perlite",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 51
-    }
+    "THC": 25
   },
   {
     "participantID": "30",
     "quality": "62.7",
-    "inputs": {
-      "length": 23,
-      "circumference": 6,
-      "weight": 15,
-      "thc": 20,
-      "cbd": 2,
-      "moisture": 11,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 236,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 223,
-      "zeltBreite": 223,
-      "zeltHoehe": 246,
-      "seedbank": "Sweet Seeds",
-      "strain": "Jack Herer",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Atami",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 99
-    }
+    "THC": 20
   },
   {
     "participantID": "31",
     "quality": "67.4",
-    "inputs": {
-      "length": 18,
-      "circumference": 2,
-      "weight": 16,
-      "thc": 23,
-      "cbd": 7,
-      "moisture": 11,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 509,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 139,
-      "zeltBreite": 144,
-      "zeltHoehe": 152,
-      "seedbank": "Barney´s",
-      "strain": "White Widow",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Florganics",
-      "substrat": "Perlite",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 75
-    }
+    "THC": 23
   },
   {
     "participantID": "32",
     "quality": "74.1",
-    "inputs": {
-      "length": 17,
-      "circumference": 11,
-      "weight": 18,
-      "thc": 30,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 577,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 105,
-      "zeltBreite": 122,
-      "zeltHoehe": 158,
-      "seedbank": "Sweet Seeds",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Florganics",
-      "substrat": "Erde",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 94,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 30
   },
   {
     "participantID": "33",
     "quality": "84.8",
-    "inputs": {
-      "length": 26,
-      "circumference": 13,
-      "weight": 18,
-      "thc": 30,
-      "cbd": 2,
-      "moisture": 13,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 468,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 143,
-      "zeltBreite": 114,
-      "zeltHoehe": 165,
-      "seedbank": "Dope Seeds",
-      "strain": "Blue Dream",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Floragard",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 64
-    }
+    "THC": 30
   },
   {
     "participantID": "34",
     "quality": "74.8",
-    "inputs": {
-      "length": 13,
-      "circumference": 10,
-      "weight": 12,
-      "thc": 29,
-      "cbd": 8,
-      "moisture": 11,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 234,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 107,
-      "zeltBreite": 207,
-      "zeltHoehe": 214,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Almicanna",
-      "substrat": "Erde",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 58
-    }
+    "THC": 29
   },
   {
     "participantID": "35",
     "quality": "80.2",
-    "inputs": {
-      "length": 22,
-      "circumference": 11,
-      "weight": 24,
-      "thc": 20,
-      "cbd": 6,
-      "moisture": 10,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 302,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 182,
-      "zeltBreite": 161,
-      "zeltHoehe": 190,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Almicanna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 80
-    }
+    "THC": 20
   },
   {
     "participantID": "36",
     "quality": "63.5",
-    "inputs": {
-      "length": 22,
-      "circumference": 13,
-      "weight": 21,
-      "thc": 18,
-      "cbd": 4,
-      "moisture": 12,
-      "waterActivity": 0.8
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 568,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 206,
-      "zeltBreite": 206,
-      "zeltHoehe": 239,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Atami",
-      "substrat": "Erde",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 83,
-      "curingmethode": "Glas"
-    }
+    "THC": 18
   },
   {
     "participantID": "37",
     "quality": "80.0",
-    "inputs": {
-      "length": 26,
-      "circumference": 2,
-      "weight": 15,
-      "thc": 18,
-      "cbd": 3,
-      "moisture": 10,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 450,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 203,
-      "zeltBreite": 202,
-      "zeltHoehe": 201,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Kokos",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 69
-    }
+    "THC": 18
   },
   {
     "participantID": "38",
     "quality": "76.0",
-    "inputs": {
-      "length": 11,
-      "circumference": 2,
-      "weight": 21,
-      "thc": 17,
-      "cbd": 6,
-      "moisture": 9,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 441,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 188,
-      "zeltBreite": 119,
-      "zeltHoehe": 180,
-      "seedbank": "Dope Seeds",
-      "strain": "Blue Dream",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "BioBizz",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 52
-    }
+    "THC": 17
   },
   {
     "participantID": "39",
     "quality": "73.5",
-    "inputs": {
-      "length": 22,
-      "circumference": 11,
-      "weight": 11,
-      "thc": 20,
-      "cbd": 3,
-      "moisture": 9,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 338,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 164,
-      "zeltBreite": 158,
-      "zeltHoehe": 195,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Floragard",
-      "substrat": "Perlite",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 95
-    }
+    "THC": 20
   },
   {
     "participantID": "40",
     "quality": "78.2",
-    "inputs": {
-      "length": 7,
-      "circumference": 8,
-      "weight": 13,
-      "thc": 26,
-      "cbd": 7,
-      "moisture": 12,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 520,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 104,
-      "zeltBreite": 129,
-      "zeltHoehe": 238,
-      "seedbank": "Fast Buds",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Erde",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 54,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 26
   },
   {
     "participantID": "41",
     "quality": "90.2",
-    "inputs": {
-      "length": 26,
-      "circumference": 7,
-      "weight": 14,
-      "thc": 24,
-      "cbd": 5,
-      "moisture": 13,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 509,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 159,
-      "zeltBreite": 231,
-      "zeltHoehe": 219,
-      "seedbank": "Paradise Seeds",
-      "strain": "Lemon Skunk",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Florganics",
-      "substrat": "Kokos",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 98,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 24
   },
   {
     "participantID": "42",
     "quality": "87.1",
-    "inputs": {
-      "length": 8,
-      "circumference": 4,
-      "weight": 12,
-      "thc": 27,
-      "cbd": 1,
-      "moisture": 12,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 441,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 249,
-      "zeltBreite": 184,
-      "zeltHoehe": 188,
-      "seedbank": "Paradise Seeds",
-      "strain": "Northern Lights",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Erde",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 79
-    }
+    "THC": 27
   },
   {
     "participantID": "43",
     "quality": "63.3",
-    "inputs": {
-      "length": 18,
-      "circumference": 14,
-      "weight": 10,
-      "thc": 19,
-      "cbd": 2,
-      "moisture": 13,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 470,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 122,
-      "zeltBreite": 138,
-      "zeltHoehe": 207,
-      "seedbank": "DNA Genetics",
-      "strain": "AK-47",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Canna",
-      "substrat": "",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 56
-    }
+    "THC": 19
   },
   {
     "participantID": "44",
     "quality": "86.7",
-    "inputs": {
-      "length": 24,
-      "circumference": 12,
-      "weight": 21,
-      "thc": 16,
-      "cbd": 6,
-      "moisture": 12,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 201,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 97,
-      "zeltBreite": 228,
-      "zeltHoehe": 186,
-      "seedbank": "Serious Seeds",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Plagron",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 52
-    }
+    "THC": 16
   },
   {
     "participantID": "45",
     "quality": "80.2",
-    "inputs": {
-      "length": 9,
-      "circumference": 5,
-      "weight": 13,
-      "thc": 30,
-      "cbd": 2,
-      "moisture": 11,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 160,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 246,
-      "zeltBreite": 88,
-      "zeltHoehe": 239,
-      "seedbank": "Barney´s",
-      "strain": "Chemdawg",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 92
-    }
+    "THC": 30
   },
   {
     "participantID": "46",
     "quality": "87.0",
-    "inputs": {
-      "length": 10,
-      "circumference": 9,
-      "weight": 20,
-      "thc": 25,
-      "cbd": 5,
-      "moisture": 9,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 538,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 163,
-      "zeltBreite": 120,
-      "zeltHoehe": 191,
-      "seedbank": "DNA Genetics",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Mills",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 75
-    }
+    "THC": 25
   },
   {
     "participantID": "47",
     "quality": "82.7",
-    "inputs": {
-      "length": 24,
-      "circumference": 13,
-      "weight": 13,
-      "thc": 20,
-      "cbd": 3,
-      "moisture": 10,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 426,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 181,
-      "zeltBreite": 124,
-      "zeltHoehe": 216,
-      "seedbank": "Dutch Passion",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Atami",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 81,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 20
   },
   {
     "participantID": "48",
     "quality": "76.0",
-    "inputs": {
-      "length": 16,
-      "circumference": 10,
-      "weight": 15,
-      "thc": 29,
-      "cbd": 8,
-      "moisture": 11,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 258,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 128,
-      "zeltBreite": 214,
-      "zeltHoehe": 152,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Floragard",
-      "substrat": "",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 85
-    }
+    "THC": 29
   },
   {
     "participantID": "49",
     "quality": "73.5",
-    "inputs": {
-      "length": 15,
-      "circumference": 7,
-      "weight": 25,
-      "thc": 21,
-      "cbd": 5,
-      "moisture": 13,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 465,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 109,
-      "zeltBreite": 197,
-      "zeltHoehe": 207,
-      "seedbank": "Sweet Seeds",
-      "strain": "Jack Herer",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Florganics",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 57,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 21
   },
   {
     "participantID": "50",
     "quality": "68.0",
-    "inputs": {
-      "length": 26,
-      "circumference": 9,
-      "weight": 17,
-      "thc": 26,
-      "cbd": 4,
-      "moisture": 10,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 182,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 138,
-      "zeltBreite": 98,
-      "zeltHoehe": 244,
-      "seedbank": "Barney´s",
-      "strain": "White Widow",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Atami",
-      "substrat": "Erde",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 76
-    }
+    "THC": 26
   },
   {
     "participantID": "51",
     "quality": "86.5",
-    "inputs": {
-      "length": 29,
-      "circumference": 5,
-      "weight": 12,
-      "thc": 18,
-      "cbd": 5,
-      "moisture": 12,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 502,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 187,
-      "zeltBreite": 145,
-      "zeltHoehe": 209,
-      "seedbank": "Dope Seeds",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Mills",
-      "substrat": "Perlite",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 58
-    }
+    "THC": 18
   },
   {
     "participantID": "52",
     "quality": "82.3",
-    "inputs": {
-      "length": 12,
-      "circumference": 11,
-      "weight": 16,
-      "thc": 18,
-      "cbd": 1,
-      "moisture": 10,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 272,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 144,
-      "zeltBreite": 98,
-      "zeltHoehe": 201,
-      "seedbank": "Greenhouse",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Florganics",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 69
-    }
+    "THC": 18
   },
   {
     "participantID": "53",
     "quality": "84.0",
-    "inputs": {
-      "length": 29,
-      "circumference": 7,
-      "weight": 25,
-      "thc": 27,
-      "cbd": 6,
-      "moisture": 11,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 167,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 114,
-      "zeltBreite": 242,
-      "zeltHoehe": 179,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 56
-    }
+    "THC": 27
   },
   {
     "participantID": "54",
     "quality": "67.2",
-    "inputs": {
-      "length": 20,
-      "circumference": 12,
-      "weight": 13,
-      "thc": 18,
-      "cbd": 3,
-      "moisture": 12,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 156,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 139,
-      "zeltBreite": 133,
-      "zeltHoehe": 237,
-      "seedbank": "DNA Genetics",
-      "strain": "Blue Dream",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Erde",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 89
-    }
+    "THC": 18
   },
   {
     "participantID": "55",
     "quality": "78.9",
-    "inputs": {
-      "length": 18,
-      "circumference": 6,
-      "weight": 22,
-      "thc": 17,
-      "cbd": 3,
-      "moisture": 12,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 468,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 111,
-      "zeltBreite": 82,
-      "zeltHoehe": 245,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Mills",
-      "substrat": "Perlite",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 92
-    }
+    "THC": 17
   },
   {
     "participantID": "56",
     "quality": "61.9",
-    "inputs": {
-      "length": 16,
-      "circumference": 10,
-      "weight": 10,
-      "thc": 17,
-      "cbd": 6,
-      "moisture": 12,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 369,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 95,
-      "zeltBreite": 160,
-      "zeltHoehe": 179,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 70,
-      "curingmethode": "Grovebags"
-    }
+    "THC": 17
   },
   {
     "participantID": "57",
     "quality": "82.6",
-    "inputs": {
-      "length": 25,
-      "circumference": 6,
-      "weight": 24,
-      "thc": 17,
-      "cbd": 1,
-      "moisture": 9,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 439,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 142,
-      "zeltBreite": 139,
-      "zeltHoehe": 218,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Florganics",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 54
-    }
+    "THC": 17
   },
   {
     "participantID": "58",
     "quality": "75.9",
-    "inputs": {
-      "length": 8,
-      "circumference": 9,
-      "weight": 14,
-      "thc": 21,
-      "cbd": 6,
-      "moisture": 9,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 164,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 235,
-      "zeltBreite": 205,
-      "zeltHoehe": 214,
-      "seedbank": "Barney´s",
-      "strain": "Lemon Skunk",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Mills",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 88,
-      "curingmethode": "Grovebags"
-    }
+    "THC": 21
   },
   {
     "participantID": "59",
     "quality": "92.5",
-    "inputs": {
-      "length": 24,
-      "circumference": 7,
-      "weight": 18,
-      "thc": 17,
-      "cbd": 3,
-      "moisture": 11,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 184,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 124,
-      "zeltBreite": 226,
-      "zeltHoehe": 173,
-      "seedbank": "Sensi Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Erde",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 70,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 17
   },
   {
     "participantID": "60",
     "quality": "85.1",
-    "inputs": {
-      "length": 21,
-      "circumference": 5,
-      "weight": 22,
-      "thc": 16,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 549,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 145,
-      "zeltBreite": 209,
-      "zeltHoehe": 235,
-      "seedbank": "DNA Genetics",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "BioBizz",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 77,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 16
   },
   {
     "participantID": "61",
     "quality": "93.1",
-    "inputs": {
-      "length": 29,
-      "circumference": 10,
-      "weight": 18,
-      "thc": 22,
-      "cbd": 4,
-      "moisture": 11,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 159,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 123,
-      "zeltBreite": 220,
-      "zeltHoehe": 229,
-      "seedbank": "Sensi Seeds",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Almicanna",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 75
-    }
+    "THC": 22
   },
   {
     "participantID": "62",
     "quality": "85.6",
-    "inputs": {
-      "length": 18,
-      "circumference": 2,
-      "weight": 12,
-      "thc": 27,
-      "cbd": 3,
-      "moisture": 12,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 196,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 136,
-      "zeltBreite": 166,
-      "zeltHoehe": 246,
-      "seedbank": "Fast Buds",
-      "strain": "Sour Diesel",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Grodan",
-      "substrat": "Kokos",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 63
-    }
+    "THC": 27
   },
   {
     "participantID": "63",
     "quality": "73.4",
-    "inputs": {
-      "length": 5,
-      "circumference": 10,
-      "weight": 12,
-      "thc": 25,
-      "cbd": 4,
-      "moisture": 11,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 512,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 167,
-      "zeltBreite": 187,
-      "zeltHoehe": 183,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Erde",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 70
-    }
+    "THC": 25
   },
   {
     "participantID": "64",
     "quality": "62.2",
-    "inputs": {
-      "length": 12,
-      "circumference": 3,
-      "weight": 13,
-      "thc": 24,
-      "cbd": 7,
-      "moisture": 11,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 167,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 91,
-      "zeltBreite": 246,
-      "zeltHoehe": 208,
-      "seedbank": "Sweet Seeds",
-      "strain": "",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 97,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 24
   },
   {
     "participantID": "65",
     "quality": "79.1",
-    "inputs": {
-      "length": 13,
-      "circumference": 6,
-      "weight": 23,
-      "thc": 16,
-      "cbd": 4,
-      "moisture": 12,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 223,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 85,
-      "zeltBreite": 103,
-      "zeltHoehe": 204,
-      "seedbank": "Serious Seeds",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Florganics",
-      "substrat": "Perlite",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 55
-    }
+    "THC": 16
   },
   {
     "participantID": "66",
     "quality": "78.6",
-    "inputs": {
-      "length": 5,
-      "circumference": 3,
-      "weight": 17,
-      "thc": 15,
-      "cbd": 3,
-      "moisture": 9,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 248,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 231,
-      "zeltBreite": 125,
-      "zeltHoehe": 168,
-      "seedbank": "DNA Genetics",
-      "strain": "Critical Mass",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Erde",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 75,
-      "curingmethode": "offen"
-    }
+    "THC": 15
   },
   {
     "participantID": "67",
     "quality": "69.1",
-    "inputs": {
-      "length": 16,
-      "circumference": 15,
-      "weight": 22,
-      "thc": 24,
-      "cbd": 5,
-      "moisture": 11,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 266,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 148,
-      "zeltBreite": 85,
-      "zeltHoehe": 240,
-      "seedbank": "Barney´s",
-      "strain": "",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Mills",
-      "substrat": "Perlite",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 65
-    }
+    "THC": 24
   },
   {
     "participantID": "68",
     "quality": "89.9",
-    "inputs": {
-      "length": 19,
-      "circumference": 3,
-      "weight": 25,
-      "thc": 28,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 454,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 143,
-      "zeltBreite": 143,
-      "zeltHoehe": 224,
-      "seedbank": "Greenhouse",
-      "strain": "Jack Herer",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Atami",
-      "substrat": "",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 73
-    }
+    "THC": 28
   },
   {
     "participantID": "69",
     "quality": "71.2",
-    "inputs": {
-      "length": 14,
-      "circumference": 9,
-      "weight": 17,
-      "thc": 23,
-      "cbd": 4,
-      "moisture": 13,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 418,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 226,
-      "zeltBreite": 246,
-      "zeltHoehe": 173,
-      "seedbank": "Dope Seeds",
-      "strain": "AK-47",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Plagron",
-      "substrat": "",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 91
-    }
+    "THC": 23
   },
   {
     "participantID": "70",
     "quality": "88.5",
-    "inputs": {
-      "length": 20,
-      "circumference": 4,
-      "weight": 15,
-      "thc": 29,
-      "cbd": 4,
-      "moisture": 10,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 333,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 115,
-      "zeltBreite": 141,
-      "zeltHoehe": 165,
-      "seedbank": "Sensi Seeds",
-      "strain": "Lemon Skunk",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Floragard",
-      "substrat": "Kokos",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 67
-    }
+    "THC": 29
   },
   {
     "participantID": "71",
     "quality": "63.8",
-    "inputs": {
-      "length": 5,
-      "circumference": 5,
-      "weight": 12,
-      "thc": 20,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 541,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 164,
-      "zeltBreite": 173,
-      "zeltHoehe": 203,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Almicanna",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 84,
-      "curingmethode": "Glas"
-    }
+    "THC": 20
   },
   {
     "participantID": "72",
     "quality": "92.8",
-    "inputs": {
-      "length": 12,
-      "circumference": 4,
-      "weight": 16,
-      "thc": 16,
-      "cbd": 4,
-      "moisture": 12,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 208,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 119,
-      "zeltBreite": 105,
-      "zeltHoehe": 174,
-      "seedbank": "Sweet Seeds",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "BioBizz",
-      "substrat": "Kokos",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 71
-    }
+    "THC": 16
   },
   {
     "participantID": "73",
     "quality": "93.5",
-    "inputs": {
-      "length": 4,
-      "circumference": 12,
-      "weight": 23,
-      "thc": 30,
-      "cbd": 6,
-      "moisture": 11,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 586,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 186,
-      "zeltBreite": 197,
-      "zeltHoehe": 164,
-      "seedbank": "Barney´s",
-      "strain": "",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 85,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 30
   },
   {
     "participantID": "74",
     "quality": "76.4",
-    "inputs": {
-      "length": 3,
-      "circumference": 14,
-      "weight": 25,
-      "thc": 15,
-      "cbd": 8,
-      "moisture": 13,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 433,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 94,
-      "zeltBreite": 209,
-      "zeltHoehe": 150,
-      "seedbank": "Dutch Passion",
-      "strain": "Northern Lights",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 80
-    }
+    "THC": 15
   },
   {
     "participantID": "75",
     "quality": "74.2",
-    "inputs": {
-      "length": 17,
-      "circumference": 2,
-      "weight": 13,
-      "thc": 19,
-      "cbd": 3,
-      "moisture": 10,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 211,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 199,
-      "zeltBreite": 241,
-      "zeltHoehe": 218,
-      "seedbank": "Greenhouse",
-      "strain": "",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Almicanna",
-      "substrat": "Erde",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 99,
-      "curingmethode": "offen"
-    }
+    "THC": 19
   },
   {
     "participantID": "76",
     "quality": "85.8",
-    "inputs": {
-      "length": 5,
-      "circumference": 2,
-      "weight": 19,
-      "thc": 20,
-      "cbd": 6,
-      "moisture": 10,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 165,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 181,
-      "zeltBreite": 168,
-      "zeltHoehe": 234,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Canna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 61
-    }
+    "THC": 20
   },
   {
     "participantID": "77",
     "quality": "76.4",
-    "inputs": {
-      "length": 3,
-      "circumference": 8,
-      "weight": 17,
-      "thc": 25,
-      "cbd": 6,
-      "moisture": 11,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 277,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 227,
-      "zeltBreite": 170,
-      "zeltHoehe": 156,
-      "seedbank": "Sweet Seeds",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Almicanna",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 100
-    }
+    "THC": 25
   },
   {
     "participantID": "78",
     "quality": "80.9",
-    "inputs": {
-      "length": 9,
-      "circumference": 12,
-      "weight": 23,
-      "thc": 28,
-      "cbd": 7,
-      "moisture": 10,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 242,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 136,
-      "zeltBreite": 247,
-      "zeltHoehe": 233,
-      "seedbank": "Paradise Seeds",
-      "strain": "",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Atami",
-      "substrat": "Perlite",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 69,
-      "curingmethode": "Glas"
-    }
+    "THC": 28
   },
   {
     "participantID": "79",
     "quality": "84.0",
-    "inputs": {
-      "length": 4,
-      "circumference": 10,
-      "weight": 10,
-      "thc": 20,
-      "cbd": 4,
-      "moisture": 13,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 265,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 176,
-      "zeltBreite": 168,
-      "zeltHoehe": 188,
-      "seedbank": "Greenhouse",
-      "strain": "Sour Diesel",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Mills",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 79,
-      "curingmethode": "Sonstiges"
-    }
+    "THC": 20
   },
   {
     "participantID": "80",
     "quality": "77.6",
-    "inputs": {
-      "length": 18,
-      "circumference": 2,
-      "weight": 11,
-      "thc": 26,
-      "cbd": 3,
-      "moisture": 13,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 594,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 189,
-      "zeltBreite": 123,
-      "zeltHoehe": 189,
-      "seedbank": "DNA Genetics",
-      "strain": "Blue Dream",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 85,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 26
   },
   {
     "participantID": "81",
     "quality": "71.3",
-    "inputs": {
-      "length": 22,
-      "circumference": 4,
-      "weight": 23,
-      "thc": 29,
-      "cbd": 8,
-      "moisture": 12,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 449,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 241,
-      "zeltBreite": 183,
-      "zeltHoehe": 181,
-      "seedbank": "Sensi Seeds",
-      "strain": "AK-47",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Mills",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 68,
-      "curingmethode": "Glas"
-    }
+    "THC": 29
   },
   {
     "participantID": "82",
     "quality": "82.3",
-    "inputs": {
-      "length": 7,
-      "circumference": 15,
-      "weight": 15,
-      "thc": 18,
-      "cbd": 7,
-      "moisture": 11,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 552,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 250,
-      "zeltBreite": 144,
-      "zeltHoehe": 192,
-      "seedbank": "DNA Genetics",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Canna",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 51
-    }
+    "THC": 18
   },
   {
     "participantID": "83",
     "quality": "76.7",
-    "inputs": {
-      "length": 7,
-      "circumference": 10,
-      "weight": 15,
-      "thc": 27,
-      "cbd": 7,
-      "moisture": 11,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 445,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 204,
-      "zeltBreite": 168,
-      "zeltHoehe": 241,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Atami",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 66
-    }
+    "THC": 27
   },
   {
     "participantID": "84",
     "quality": "85.0",
-    "inputs": {
-      "length": 14,
-      "circumference": 11,
-      "weight": 10,
-      "thc": 29,
-      "cbd": 3,
-      "moisture": 11,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 300,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 195,
-      "zeltBreite": 122,
-      "zeltHoehe": 219,
-      "seedbank": "Fast Buds",
-      "strain": "Lemon Skunk",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Mills",
-      "substrat": "Kokos",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 86,
-      "curingmethode": "Sonstiges"
-    }
+    "THC": 29
   },
   {
     "participantID": "85",
     "quality": "67.3",
-    "inputs": {
-      "length": 16,
-      "circumference": 11,
-      "weight": 23,
-      "thc": 18,
-      "cbd": 2,
-      "moisture": 9,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 343,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 202,
-      "zeltBreite": 151,
-      "zeltHoehe": 205,
-      "seedbank": "Sensi Seeds",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Plagron",
-      "substrat": "Kokos",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 55
-    }
+    "THC": 18
   },
   {
     "participantID": "86",
     "quality": "69.6",
-    "inputs": {
-      "length": 7,
-      "circumference": 11,
-      "weight": 21,
-      "thc": 23,
-      "cbd": 6,
-      "moisture": 13,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 399,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 181,
-      "zeltBreite": 86,
-      "zeltHoehe": 204,
-      "seedbank": "Paradise Seeds",
-      "strain": "",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Plagron",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 69,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 23
   },
   {
     "participantID": "87",
     "quality": "70.0",
-    "inputs": {
-      "length": 12,
-      "circumference": 3,
-      "weight": 17,
-      "thc": 28,
-      "cbd": 5,
-      "moisture": 11,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 541,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 221,
-      "zeltBreite": 181,
-      "zeltHoehe": 191,
-      "seedbank": "Paradise Seeds",
-      "strain": "White Widow",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Atami",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 66
-    }
+    "THC": 28
   },
   {
     "participantID": "88",
     "quality": "64.7",
-    "inputs": {
-      "length": 14,
-      "circumference": 13,
-      "weight": 12,
-      "thc": 21,
-      "cbd": 8,
-      "moisture": 9,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 402,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 139,
-      "zeltBreite": 231,
-      "zeltHoehe": 230,
-      "seedbank": "Greenhouse",
-      "strain": "Blue Dream",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Canna",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 83
-    }
+    "THC": 21
   },
   {
     "participantID": "89",
     "quality": "80.6",
-    "inputs": {
-      "length": 4,
-      "circumference": 6,
-      "weight": 12,
-      "thc": 16,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 180,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 112,
-      "zeltBreite": 194,
-      "zeltHoehe": 152,
-      "seedbank": "Paradise Seeds",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Erde",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 60,
-      "curingmethode": "Grovebags"
-    }
+    "THC": 16
   },
   {
     "participantID": "90",
     "quality": "93.1",
-    "inputs": {
-      "length": 23,
-      "circumference": 8,
-      "weight": 14,
-      "thc": 16,
-      "cbd": 5,
-      "moisture": 9,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 245,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 85,
-      "zeltBreite": 95,
-      "zeltHoehe": 199,
-      "seedbank": "DNA Genetics",
-      "strain": "Jack Herer",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Almicanna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 74
-    }
+    "THC": 16
   },
   {
     "participantID": "91",
     "quality": "87.3",
-    "inputs": {
-      "length": 3,
-      "circumference": 10,
-      "weight": 19,
-      "thc": 30,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 206,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 189,
-      "zeltBreite": 88,
-      "zeltHoehe": 241,
-      "seedbank": "Sweet Seeds",
-      "strain": "Critical Mass",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Plagron",
-      "substrat": "Erde",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 82
-    }
+    "THC": 30
   },
   {
     "participantID": "92",
     "quality": "86.8",
-    "inputs": {
-      "length": 30,
-      "circumference": 6,
-      "weight": 22,
-      "thc": 27,
-      "cbd": 8,
-      "moisture": 12,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 595,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 130,
-      "zeltBreite": 215,
-      "zeltHoehe": 177,
-      "seedbank": "Fast Buds",
-      "strain": "Chemdawg",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Florganics",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 97
-    }
+    "THC": 27
   },
   {
     "participantID": "93",
     "quality": "73.2",
-    "inputs": {
-      "length": 11,
-      "circumference": 2,
-      "weight": 24,
-      "thc": 29,
-      "cbd": 4,
-      "moisture": 11,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 492,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 100,
-      "zeltBreite": 95,
-      "zeltHoehe": 173,
-      "seedbank": "Dope Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 96
-    }
+    "THC": 29
   },
   {
     "participantID": "94",
     "quality": "68.4",
-    "inputs": {
-      "length": 8,
-      "circumference": 5,
-      "weight": 20,
-      "thc": 16,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 396,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 207,
-      "zeltBreite": 178,
-      "zeltHoehe": 163,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Grodan",
-      "substrat": "Perlite",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 72
-    }
+    "THC": 16
   },
   {
     "participantID": "95",
     "quality": "73.9",
-    "inputs": {
-      "length": 7,
-      "circumference": 6,
-      "weight": 20,
-      "thc": 27,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 209,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 97,
-      "zeltBreite": 160,
-      "zeltHoehe": 152,
-      "seedbank": "Paradise Seeds",
-      "strain": "AK-47",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Mills",
-      "substrat": "Kokos",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 65,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 27
   },
   {
     "participantID": "96",
     "quality": "90.6",
-    "inputs": {
-      "length": 30,
-      "circumference": 5,
-      "weight": 17,
-      "thc": 15,
-      "cbd": 6,
-      "moisture": 11,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 539,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 136,
-      "zeltBreite": 235,
-      "zeltHoehe": 162,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 98
-    }
+    "THC": 15
   },
   {
     "participantID": "97",
     "quality": "68.6",
-    "inputs": {
-      "length": 26,
-      "circumference": 8,
-      "weight": 17,
-      "thc": 26,
-      "cbd": 1,
-      "moisture": 11,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 452,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 153,
-      "zeltBreite": 129,
-      "zeltHoehe": 222,
-      "seedbank": "Fast Buds",
-      "strain": "Critical Mass",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Almicanna",
-      "substrat": "",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 97
-    }
+    "THC": 26
   },
   {
     "participantID": "98",
     "quality": "88.7",
-    "inputs": {
-      "length": 27,
-      "circumference": 11,
-      "weight": 13,
-      "thc": 23,
-      "cbd": 8,
-      "moisture": 9,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 514,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 248,
-      "zeltBreite": 142,
-      "zeltHoehe": 168,
-      "seedbank": "DNA Genetics",
-      "strain": "White Widow",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Grodan",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 96
-    }
+    "THC": 23
   },
   {
     "participantID": "99",
     "quality": "91.7",
-    "inputs": {
-      "length": 22,
-      "circumference": 3,
-      "weight": 12,
-      "thc": 22,
-      "cbd": 1,
-      "moisture": 9,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 185,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 101,
-      "zeltBreite": 102,
-      "zeltHoehe": 250,
-      "seedbank": "Sweet Seeds",
-      "strain": "Northern Lights",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "BioBizz",
-      "substrat": "",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 84
-    }
+    "THC": 22
   },
   {
     "participantID": "100",
     "quality": "93.6",
-    "inputs": {
-      "length": 30,
-      "circumference": 13,
-      "weight": 10,
-      "thc": 15,
-      "cbd": 5,
-      "moisture": 12,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 293,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 200,
-      "zeltBreite": 104,
-      "zeltHoehe": 233,
-      "seedbank": "Dutch Passion",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Canna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 89
-    }
+    "THC": 15
   },
   {
     "participantID": "101",
     "quality": "93.2",
-    "inputs": {
-      "length": 6,
-      "circumference": 5,
-      "weight": 13,
-      "thc": 17,
-      "cbd": 6,
-      "moisture": 12,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 224,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 158,
-      "zeltBreite": 223,
-      "zeltHoehe": 169,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Grodan",
-      "substrat": "Perlite",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 56,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 17
   },
   {
     "participantID": "102",
     "quality": "77.4",
-    "inputs": {
-      "length": 18,
-      "circumference": 6,
-      "weight": 22,
-      "thc": 19,
-      "cbd": 2,
-      "moisture": 9,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 402,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 234,
-      "zeltBreite": 240,
-      "zeltHoehe": 240,
-      "seedbank": "Paradise Seeds",
-      "strain": "Blue Dream",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Florganics",
-      "substrat": "",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 80
-    }
+    "THC": 19
   },
   {
     "participantID": "103",
     "quality": "94.6",
-    "inputs": {
-      "length": 23,
-      "circumference": 9,
-      "weight": 13,
-      "thc": 20,
-      "cbd": 5,
-      "moisture": 12,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 493,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 210,
-      "zeltBreite": 184,
-      "zeltHoehe": 198,
-      "seedbank": "DNA Genetics",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Florganics",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 94,
-      "curingmethode": "offen"
-    }
+    "THC": 20
   },
   {
     "participantID": "104",
     "quality": "75.5",
-    "inputs": {
-      "length": 22,
-      "circumference": 8,
-      "weight": 11,
-      "thc": 20,
-      "cbd": 6,
-      "moisture": 13,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 577,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 101,
-      "zeltBreite": 132,
-      "zeltHoehe": 210,
-      "seedbank": "DNA Genetics",
-      "strain": "Sour Diesel",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 62,
-      "curingmethode": "Sonstiges"
-    }
+    "THC": 20
   },
   {
     "participantID": "105",
     "quality": "78.0",
-    "inputs": {
-      "length": 4,
-      "circumference": 11,
-      "weight": 25,
-      "thc": 17,
-      "cbd": 4,
-      "moisture": 13,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 174,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 86,
-      "zeltBreite": 176,
-      "zeltHoehe": 230,
-      "seedbank": "Dope Seeds",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Almicanna",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 51,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 17
   },
   {
     "participantID": "106",
     "quality": "84.7",
-    "inputs": {
-      "length": 26,
-      "circumference": 8,
-      "weight": 14,
-      "thc": 25,
-      "cbd": 8,
-      "moisture": 12,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 536,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 204,
-      "zeltBreite": 94,
-      "zeltHoehe": 210,
-      "seedbank": "Barney´s",
-      "strain": "Northern Lights",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "BioBizz",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 69
-    }
+    "THC": 25
   },
   {
     "participantID": "107",
     "quality": "76.1",
-    "inputs": {
-      "length": 27,
-      "circumference": 11,
-      "weight": 17,
-      "thc": 23,
-      "cbd": 4,
-      "moisture": 11,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 314,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 84,
-      "zeltBreite": 228,
-      "zeltHoehe": 160,
-      "seedbank": "Dope Seeds",
-      "strain": "Critical Mass",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Floragard",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 59
-    }
+    "THC": 23
   },
   {
     "participantID": "108",
     "quality": "87.8",
-    "inputs": {
-      "length": 20,
-      "circumference": 13,
-      "weight": 12,
-      "thc": 22,
-      "cbd": 1,
-      "moisture": 12,
-      "waterActivity": 0.78
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 253,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 227,
-      "zeltBreite": 94,
-      "zeltHoehe": 250,
-      "seedbank": "Fast Buds",
-      "strain": "White Widow",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Mills",
-      "substrat": "Erde",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 61
-    }
+    "THC": 22
   },
   {
     "participantID": "109",
     "quality": "71.6",
-    "inputs": {
-      "length": 5,
-      "circumference": 8,
-      "weight": 20,
-      "thc": 20,
-      "cbd": 4,
-      "moisture": 11,
-      "waterActivity": 0.71
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 492,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 228,
-      "zeltBreite": 164,
-      "zeltHoehe": 185,
-      "seedbank": "Sweet Seeds",
-      "strain": "Jack Herer",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Grodan",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 86
-    }
+    "THC": 20
   },
   {
     "participantID": "110",
     "quality": "87.5",
-    "inputs": {
-      "length": 17,
-      "circumference": 10,
-      "weight": 12,
-      "thc": 19,
-      "cbd": 6,
-      "moisture": 11,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 385,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 124,
-      "zeltBreite": 153,
-      "zeltHoehe": 227,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "Chemdawg",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "BioBizz",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 93,
-      "curingmethode": "Dryfermbags"
-    }
+    "THC": 19
   },
   {
     "participantID": "111",
     "quality": "82.0",
-    "inputs": {
-      "length": 6,
-      "circumference": 7,
-      "weight": 13,
-      "thc": 17,
-      "cbd": 3,
-      "moisture": 12,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 545,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 187,
-      "zeltBreite": 182,
-      "zeltHoehe": 218,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Plagron",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 62
-    }
+    "THC": 17
   },
   {
     "participantID": "112",
     "quality": "72.9",
-    "inputs": {
-      "length": 16,
-      "circumference": 7,
-      "weight": 24,
-      "thc": 17,
-      "cbd": 7,
-      "moisture": 12,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 321,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 95,
-      "zeltBreite": 118,
-      "zeltHoehe": 249,
-      "seedbank": "DNA Genetics",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Floragard",
-      "substrat": "Kokos",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 79
-    }
+    "THC": 17
   },
   {
     "participantID": "113",
     "quality": "83.9",
-    "inputs": {
-      "length": 6,
-      "circumference": 11,
-      "weight": 20,
-      "thc": 19,
-      "cbd": 3,
-      "moisture": 12,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 304,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 216,
-      "zeltBreite": 84,
-      "zeltHoehe": 162,
-      "seedbank": "Paradise Seeds",
-      "strain": "Northern Lights",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 91
-    }
+    "THC": 19
   },
   {
     "participantID": "114",
     "quality": "66.3",
-    "inputs": {
-      "length": 19,
-      "circumference": 7,
-      "weight": 18,
-      "thc": 19,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "Lumatek",
-      "lampenleistung": 171,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 114,
-      "zeltBreite": 119,
-      "zeltHoehe": 184,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 99
-    }
+    "THC": 19
   },
   {
     "participantID": "115",
     "quality": "74.2",
-    "inputs": {
-      "length": 29,
-      "circumference": 14,
-      "weight": 16,
-      "thc": 16,
-      "cbd": 2,
-      "moisture": 10,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 449,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 83,
-      "zeltBreite": 172,
-      "zeltHoehe": 219,
-      "seedbank": "Dutch Passion",
-      "strain": "White Widow",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Mills",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 77
-    }
+    "THC": 16
   },
   {
     "participantID": "116",
     "quality": "71.1",
-    "inputs": {
-      "length": 25,
-      "circumference": 10,
-      "weight": 15,
-      "thc": 26,
-      "cbd": 5,
-      "moisture": 10,
-      "waterActivity": 0.8
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 525,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 183,
-      "zeltBreite": 94,
-      "zeltHoehe": 243,
-      "seedbank": "Greenhouse",
-      "strain": "Northern Lights",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Floragard",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 90
-    }
+    "THC": 26
   },
   {
     "participantID": "117",
     "quality": "85.7",
-    "inputs": {
-      "length": 18,
-      "circumference": 13,
-      "weight": 23,
-      "thc": 19,
-      "cbd": 2,
-      "moisture": 10,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 312,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 125,
-      "zeltBreite": 83,
-      "zeltHoehe": 228,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Floragard",
-      "substrat": "Erde",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 68
-    }
+    "THC": 19
   },
   {
     "participantID": "118",
     "quality": "61.1",
-    "inputs": {
-      "length": 27,
-      "circumference": 3,
-      "weight": 23,
-      "thc": 15,
-      "cbd": 6,
-      "moisture": 9,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 173,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 206,
-      "zeltBreite": 198,
-      "zeltHoehe": 170,
-      "seedbank": "Paradise Seeds",
-      "strain": "Super Lemon Haze",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Floragard",
-      "substrat": "Erde",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 76
-    }
+    "THC": 15
   },
   {
     "participantID": "119",
     "quality": "89.9",
-    "inputs": {
-      "length": 6,
-      "circumference": 13,
-      "weight": 19,
-      "thc": 16,
-      "cbd": 2,
-      "moisture": 12,
-      "waterActivity": 0.65
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 335,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 155,
-      "zeltBreite": 231,
-      "zeltHoehe": 177,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "BioBizz",
-      "substrat": "",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 95
-    }
+    "THC": 16
   },
   {
     "participantID": "120",
     "quality": "63.0",
-    "inputs": {
-      "length": 24,
-      "circumference": 9,
-      "weight": 19,
-      "thc": 29,
-      "cbd": 7,
-      "moisture": 11,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 472,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 172,
-      "zeltBreite": 217,
-      "zeltHoehe": 153,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 64
-    }
+    "THC": 29
   },
   {
     "participantID": "121",
     "quality": "91.2",
-    "inputs": {
-      "length": 22,
-      "circumference": 10,
-      "weight": 21,
-      "thc": 19,
-      "cbd": 1,
-      "moisture": 13,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 185,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 149,
-      "zeltBreite": 240,
-      "zeltHoehe": 234,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Canna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 88
-    }
+    "THC": 19
   },
   {
     "participantID": "122",
     "quality": "83.4",
-    "inputs": {
-      "length": 26,
-      "circumference": 4,
-      "weight": 21,
-      "thc": 15,
-      "cbd": 6,
-      "moisture": 12,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 431,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 179,
-      "zeltBreite": 81,
-      "zeltHoehe": 150,
-      "seedbank": "Greenhouse",
-      "strain": "",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Mills",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 100
-    }
+    "THC": 15
   },
   {
     "participantID": "123",
     "quality": "66.4",
-    "inputs": {
-      "length": 18,
-      "circumference": 13,
-      "weight": 11,
-      "thc": 25,
-      "cbd": 7,
-      "moisture": 10,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 434,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 194,
-      "zeltBreite": 150,
-      "zeltHoehe": 187,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Canna",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 60
-    }
+    "THC": 25
   },
   {
     "participantID": "124",
     "quality": "88.0",
-    "inputs": {
-      "length": 26,
-      "circumference": 6,
-      "weight": 20,
-      "thc": 16,
-      "cbd": 2,
-      "moisture": 13,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 199,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 159,
-      "zeltBreite": 221,
-      "zeltHoehe": 250,
-      "seedbank": "Humboldt Seed Company",
-      "strain": "OG Kush",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Canna",
-      "substrat": "Erde",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 78,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 16
   },
   {
     "participantID": "125",
     "quality": "67.4",
-    "inputs": {
-      "length": 26,
-      "circumference": 13,
-      "weight": 20,
-      "thc": 28,
-      "cbd": 1,
-      "moisture": 12,
-      "waterActivity": 0.79
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 300,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 132,
-      "zeltBreite": 92,
-      "zeltHoehe": 164,
-      "seedbank": "Dope Seeds",
-      "strain": "OG Kush",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Canna",
-      "substrat": "Kokos",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 90
-    }
+    "THC": 28
   },
   {
     "participantID": "126",
     "quality": "77.7",
-    "inputs": {
-      "length": 8,
-      "circumference": 14,
-      "weight": 15,
-      "thc": 24,
-      "cbd": 3,
-      "moisture": 9,
-      "waterActivity": 0.77
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 302,
-      "zelthersteller": "Secret Jardin",
-      "zeltLaenge": 197,
-      "zeltBreite": 176,
-      "zeltHoehe": 159,
-      "seedbank": "Dutch Passion",
-      "strain": "White Widow",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 67,
-      "curingmethode": "Glas"
-    }
+    "THC": 24
   },
   {
     "participantID": "127",
     "quality": "84.4",
-    "inputs": {
-      "length": 23,
-      "circumference": 9,
-      "weight": 17,
-      "thc": 26,
-      "cbd": 8,
-      "moisture": 13,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 254,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 242,
-      "zeltBreite": 200,
-      "zeltHoehe": 159,
-      "seedbank": "Fast Buds",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Atami",
-      "substrat": "Kokos",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 57
-    }
+    "THC": 26
   },
   {
     "participantID": "128",
     "quality": "70.0",
-    "inputs": {
-      "length": 17,
-      "circumference": 4,
-      "weight": 23,
-      "thc": 16,
-      "cbd": 3,
-      "moisture": 13,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 541,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 96,
-      "zeltBreite": 207,
-      "zeltHoehe": 239,
-      "seedbank": "Greenhouse",
-      "strain": "",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Grodan",
-      "substrat": "",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 98
-    }
+    "THC": 16
   },
   {
     "participantID": "129",
     "quality": "65.0",
-    "inputs": {
-      "length": 3,
-      "circumference": 2,
-      "weight": 18,
-      "thc": 29,
-      "cbd": 4,
-      "moisture": 10,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 414,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 162,
-      "zeltBreite": 106,
-      "zeltHoehe": 213,
-      "seedbank": "DNA Genetics",
-      "strain": "Chemdawg",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Almicanna",
-      "substrat": "Kokos",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 95
-    }
+    "THC": 29
   },
   {
     "participantID": "130",
     "quality": "65.8",
-    "inputs": {
-      "length": 15,
-      "circumference": 6,
-      "weight": 23,
-      "thc": 16,
-      "cbd": 5,
-      "moisture": 12,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 588,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 87,
-      "zeltBreite": 191,
-      "zeltHoehe": 249,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "Critical Mass",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Floragard",
-      "substrat": "Perlite",
-      "anbbaumethode": "Aeroponic",
-      "seedToHarvest": 73,
-      "curingmethode": "offen"
-    }
+    "THC": 16
   },
   {
     "participantID": "131",
     "quality": "74.9",
-    "inputs": {
-      "length": 30,
-      "circumference": 11,
-      "weight": 11,
-      "thc": 28,
-      "cbd": 2,
-      "moisture": 10,
-      "waterActivity": 0.67
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 558,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 166,
-      "zeltBreite": 175,
-      "zeltHoehe": 230,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "OG Kush",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Florganics",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 88
-    }
+    "THC": 28
   },
   {
     "participantID": "132",
     "quality": "75.2",
-    "inputs": {
-      "length": 3,
-      "circumference": 7,
-      "weight": 15,
-      "thc": 24,
-      "cbd": 7,
-      "moisture": 9,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 324,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 136,
-      "zeltBreite": 172,
-      "zeltHoehe": 176,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Grodan",
-      "substrat": "Kokos",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 88
-    }
+    "THC": 24
   },
   {
     "participantID": "133",
     "quality": "85.7",
-    "inputs": {
-      "length": 20,
-      "circumference": 5,
-      "weight": 10,
-      "thc": 24,
-      "cbd": 1,
-      "moisture": 10,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 466,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 104,
-      "zeltBreite": 130,
-      "zeltHoehe": 203,
-      "seedbank": "Sweet Seeds",
-      "strain": "White Widow",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Plagron",
-      "substrat": "Perlite",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 88
-    }
+    "THC": 24
   },
   {
     "participantID": "134",
     "quality": "93.9",
-    "inputs": {
-      "length": 17,
-      "circumference": 3,
-      "weight": 12,
-      "thc": 23,
-      "cbd": 7,
-      "moisture": 13,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 499,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 197,
-      "zeltBreite": 127,
-      "zeltHoehe": 207,
-      "seedbank": "Serious Seeds",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Almicanna",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 93,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 23
   },
   {
     "participantID": "135",
     "quality": "86.4",
-    "inputs": {
-      "length": 3,
-      "circumference": 15,
-      "weight": 10,
-      "thc": 28,
-      "cbd": 3,
-      "moisture": 11,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 551,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 98,
-      "zeltBreite": 137,
-      "zeltHoehe": 160,
-      "seedbank": "Dope Seeds",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Advanced Hydroponics",
-      "substrathersteller": "Canna",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Hydroponik",
-      "seedToHarvest": 76
-    }
+    "THC": 28
   },
   {
     "participantID": "136",
     "quality": "78.1",
-    "inputs": {
-      "length": 20,
-      "circumference": 14,
-      "weight": 15,
-      "thc": 28,
-      "cbd": 2,
-      "moisture": 10,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 513,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 177,
-      "zeltBreite": 193,
-      "zeltHoehe": 223,
-      "seedbank": "Barney´s",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Mills",
-      "substrathersteller": "Almicanna",
-      "substrat": "Perlite",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 63
-    }
+    "THC": 28
   },
   {
     "participantID": "137",
     "quality": "83.0",
-    "inputs": {
-      "length": 12,
-      "circumference": 12,
-      "weight": 19,
-      "thc": 25,
-      "cbd": 5,
-      "moisture": 12,
-      "waterActivity": 0.7
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 503,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 103,
-      "zeltBreite": 181,
-      "zeltHoehe": 213,
-      "seedbank": "Fast Buds",
-      "strain": "",
-      "duengerhersteller": "BioBizz",
-      "substrathersteller": "Canna",
-      "substrat": "Perlite",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 79,
-      "curingmethode": "Glas"
-    }
+    "THC": 25
   },
   {
     "participantID": "138",
     "quality": "86.6",
-    "inputs": {
-      "length": 14,
-      "circumference": 4,
-      "weight": 19,
-      "thc": 22,
-      "cbd": 3,
-      "moisture": 9,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 237,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 218,
-      "zeltBreite": 112,
-      "zeltHoehe": 177,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Erde",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 61
-    }
+    "THC": 22
   },
   {
     "participantID": "139",
     "quality": "91.4",
-    "inputs": {
-      "length": 14,
-      "circumference": 14,
-      "weight": 24,
-      "thc": 22,
-      "cbd": 5,
-      "moisture": 13,
-      "waterActivity": 0.74
-    },
-    "additional": {
-      "lampenhersteller": "Mars Hydro",
-      "lampenleistung": 579,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 169,
-      "zeltBreite": 105,
-      "zeltHoehe": 237,
-      "seedbank": "Serious Seeds",
-      "strain": "",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Gewächshaus",
-      "seedToHarvest": 76
-    }
+    "THC": 22
   },
   {
     "participantID": "140",
     "quality": "68.5",
-    "inputs": {
-      "length": 17,
-      "circumference": 8,
-      "weight": 20,
-      "thc": 26,
-      "cbd": 1,
-      "moisture": 11,
-      "waterActivity": 0.78
-    },
-    "additional": {
-      "lampenhersteller": "Kingbrite",
-      "lampenleistung": 311,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 231,
-      "zeltBreite": 112,
-      "zeltHoehe": 224,
-      "seedbank": "Greenhouse",
-      "strain": "",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "BioBizz",
-      "substrat": "Erde",
-      "anbbaumethode": "Sonstiges",
-      "seedToHarvest": 83
-    }
+    "THC": 26
   },
   {
     "participantID": "141",
     "quality": "85.0",
-    "inputs": {
-      "length": 22,
-      "circumference": 8,
-      "weight": 19,
-      "thc": 23,
-      "cbd": 6,
-      "moisture": 10,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 334,
-      "zelthersteller": "Homebox",
-      "zeltLaenge": 156,
-      "zeltBreite": 215,
-      "zeltHoehe": 244,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "Chemdawg",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Florganics",
-      "substrat": "Erde",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 58,
-      "curingmethode": "Cannatrol"
-    }
+    "THC": 23
   },
   {
     "participantID": "142",
     "quality": "91.9",
-    "inputs": {
-      "length": 4,
-      "circumference": 9,
-      "weight": 12,
-      "thc": 15,
-      "cbd": 5,
-      "moisture": 10,
-      "waterActivity": 0.76
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 214,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 136,
-      "zeltBreite": 246,
-      "zeltHoehe": 231,
-      "seedbank": "Barney´s",
-      "strain": "Girl Scout Cookies",
-      "duengerhersteller": "Advanced Nutrients",
-      "substrathersteller": "Almicanna",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 84
-    }
+    "THC": 15
   },
   {
     "participantID": "143",
     "quality": "91.9",
-    "inputs": {
-      "length": 25,
-      "circumference": 2,
-      "weight": 11,
-      "thc": 21,
-      "cbd": 5,
-      "moisture": 11,
-      "waterActivity": 0.78
-    },
-    "additional": {
-      "lampenhersteller": "Greenception",
-      "lampenleistung": 544,
-      "zelthersteller": "AC Infinity",
-      "zeltLaenge": 226,
-      "zeltBreite": 227,
-      "zeltHoehe": 169,
-      "seedbank": "Dope Seeds",
-      "strain": "",
-      "duengerhersteller": "Hubey",
-      "substrathersteller": "Plagron",
-      "substrat": "",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 72
-    }
+    "THC": 21
   },
   {
     "participantID": "144",
     "quality": "62.4",
-    "inputs": {
-      "length": 29,
-      "circumference": 3,
-      "weight": 24,
-      "thc": 19,
-      "cbd": 7,
-      "moisture": 9,
-      "waterActivity": 0.75
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 458,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 183,
-      "zeltBreite": 121,
-      "zeltHoehe": 226,
-      "seedbank": "Paradise Seeds",
-      "strain": "Amnesia Haze",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "BioBizz",
-      "substrat": "Steinwolle",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 53
-    }
+    "THC": 19
   },
   {
     "participantID": "145",
     "quality": "64.8",
-    "inputs": {
-      "length": 21,
-      "circumference": 6,
-      "weight": 10,
-      "thc": 21,
-      "cbd": 2,
-      "moisture": 9,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "AC Infinity",
-      "lampenleistung": 583,
-      "zelthersteller": "Mars Hydro",
-      "zeltLaenge": 85,
-      "zeltBreite": 120,
-      "zeltHoehe": 221,
-      "seedbank": "Sensi Seeds",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Sonnenerde",
-      "substrat": "Kokos",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 60
-    }
+    "THC": 21
   },
   {
     "participantID": "146",
     "quality": "81.5",
-    "inputs": {
-      "length": 17,
-      "circumference": 7,
-      "weight": 21,
-      "thc": 26,
-      "cbd": 4,
-      "moisture": 10,
-      "waterActivity": 0.72
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 296,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 226,
-      "zeltBreite": 169,
-      "zeltHoehe": 161,
-      "seedbank": "Barney´s",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "Mills",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 82
-    }
+    "THC": 26
   },
   {
     "participantID": "147",
     "quality": "77.9",
-    "inputs": {
-      "length": 24,
-      "circumference": 2,
-      "weight": 11,
-      "thc": 29,
-      "cbd": 8,
-      "moisture": 10,
-      "waterActivity": 0.69
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 352,
-      "zelthersteller": "Vivosun",
-      "zeltLaenge": 170,
-      "zeltBreite": 128,
-      "zeltHoehe": 244,
-      "seedbank": "Royal Queen Seeds",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Greenhouse",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Hydroponik",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 88,
-      "curingmethode": "Glas"
-    }
+    "THC": 29
   },
   {
     "participantID": "148",
     "quality": "87.6",
-    "inputs": {
-      "length": 11,
-      "circumference": 6,
-      "weight": 16,
-      "thc": 18,
-      "cbd": 2,
-      "moisture": 11,
-      "waterActivity": 0.66
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 307,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 213,
-      "zeltBreite": 159,
-      "zeltHoehe": 178,
-      "seedbank": "Fast Buds",
-      "strain": "Trainwreck",
-      "duengerhersteller": "Athena",
-      "substrathersteller": "Klasmann-Deilmann",
-      "substrat": "Kokos",
-      "anbbaumethode": "DWC",
-      "seedToHarvest": 54
-    }
+    "THC": 18
   },
   {
     "participantID": "149",
     "quality": "84.7",
-    "inputs": {
-      "length": 11,
-      "circumference": 15,
-      "weight": 19,
-      "thc": 30,
-      "cbd": 3,
-      "moisture": 10,
-      "waterActivity": 0.68
-    },
-    "additional": {
-      "lampenhersteller": "Spider Farmer",
-      "lampenleistung": 509,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 246,
-      "zeltBreite": 97,
-      "zeltHoehe": 172,
-      "seedbank": "Sensi Seeds",
-      "strain": "Pineapple Express",
-      "duengerhersteller": "Hesi",
-      "substrathersteller": "Atami",
-      "substrat": "Erde",
-      "anbbaumethode": "Indoor",
-      "seedToHarvest": 77
-    }
+    "THC": 30
   },
   {
     "participantID": "150",
     "quality": "65.0",
-    "inputs": {
-      "length": 15,
-      "circumference": 2,
-      "weight": 20,
-      "thc": 16,
-      "cbd": 5,
-      "moisture": 12,
-      "waterActivity": 0.73
-    },
-    "additional": {
-      "lampenhersteller": "Sanlight",
-      "lampenleistung": 191,
-      "zelthersteller": "Spider Farmer",
-      "zeltLaenge": 232,
-      "zeltBreite": 128,
-      "zeltHoehe": 160,
-      "seedbank": "Dutch Passion",
-      "strain": "",
-      "duengerhersteller": "Canna",
-      "substrathersteller": "BioBizz",
-      "substrat": "",
-      "anbbaumethode": "Outdoor",
-      "seedToHarvest": 88,
-      "curingmethode": "Glas"
-    }
+    "THC": 16
   }
 ]
