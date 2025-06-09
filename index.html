@@ -144,6 +144,54 @@ position: relative;
       margin-top: 40px;
       font-size: 0.9rem;
     }
+    .info-rules-section {
+    max-width: 800px;
+    margin: 2rem auto;
+    background-color: #fdfdfd;
+    border-radius: 10px;
+    padding: 2rem 2.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    color: #333;
+  }
+  .info-rules-section h2 {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: #222;
+    border-bottom: 2px solid #ff7300;
+    padding-bottom: 0.5rem;
+  }
+  .info-rules-section ol {
+    list-style: none;
+    padding-left: 0;
+    counter-reset: rule-counter;
+  }
+  .info-rules-section li {
+    margin-bottom: 1.25rem;
+    padding-left: 2.5rem;
+    position: relative;
+  }
+  .info-rules-section li::before {
+    counter-increment: rule-counter;
+    content: counter(rule-counter) ".";
+    position: absolute;
+    left: 0;
+    top: 0;
+    font-weight: bold;
+    color: #ff7300;
+  }
+  .info-rules-section li ul {
+    margin-top: 0.5rem;
+    list-style: disc;
+    padding-left: 1.75rem;
+  }
+  .info-rules-section li ul li {
+    margin-bottom: 0.5rem;
+  }
+  .info-rules-section strong {
+    color: #222;
+  }
   </style>
 </head>
 <body>
@@ -152,7 +200,7 @@ position: relative;
       <nav>
       <ul>
         <li><a href="#home">Home</a></li>
-        <li><a href="#rules">Regeln & Infos</a></li>
+        <li><a href="#info-rules-section">Regeln & Infos</a></li>
         <li><a href="#live">Live Tabelle</a></li>
         <li><a href="https://www.grow.de/shop/grow-club/growclubmitgliedschaft" target="_blank">Clubmitglied werden</a></li>
         <li><a href="https://www.grow.de/shop/grow-magazin-abos/legalize-abo_2_jahre_deutschland" target="_blank">Magazin abonnieren</a></li>
@@ -172,11 +220,11 @@ position: relative;
   </section>
 
   <!-- Regeln & Infos -->
-  <section id="rules" class="content-section splash-effect">
-     <h2>Infos &amp; Regeln</h2>
+  <section class="info-rules-section">
+  <h2>Infos &amp; Regeln</h2>
   <ol>
     <li>
-      Die Teilnehmer legen ihre Blüten zunächst auf eine Schnittmatte.
+      Die Teilnehmer stellen sich an und legen ihre Blüten auf eine Schnittmatte.
     </li>
     <li>
       Ein Standmitarbeiter misst die Blüte:
@@ -192,16 +240,16 @@ position: relative;
       Die ermittelten Werte werden in die Eingabemaske übertragen.
     </li>
     <li>
-      Gleichzeitig werden mithilfe des "Purpl Pro" die Werte für THC, CBD, Restfeuchtigkeit und Wasseraktivität erfasst und eingetragen.
+      Gleichzeitig werden mit dem "Purpl Pro" die Werte für THC, CBD, Restfeuchtigkeit und Wasseraktivität bestimmt und erfasst.
     </li>
     <li>
-      Anschließend besteht die Möglichkeit, freiwillig und anonym Informationen zum Anbau einzugeben.
+      Anschließend können die Teilnehmer freiwillig und anonym Informationen zum Anbau eingeben.
     </li>
     <li>
-      Zum Abschluss erhält der Teilnehmer ein Zertifikat mit den Messwerten sowie eine Quittung mit einem QR-Code zur späteren Gewinnabholung.
+      Abschließend erhalten die Teilnehmer ein Zertifikat mit den Messwerten sowie eine Quittung mit einem QR-Code zur späteren Gewinnabholung.
     </li>
   </ol>
-  </section>
+</section>
 
   <!-- Live Tabelle -->
   <section id="live" class="content-section">
